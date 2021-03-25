@@ -6,5 +6,11 @@
 * OS - linux/ubuntu distros.
 * sudo apt install tor # install tor service
 * pip install requests cython # install requests and cython modules,the os module is default
-* run the program from terminal with command python3 dos.py
 *  ------------------------------------------------------------------
+![dos](dos.png)
+
+* run the program from terminal with command python3 dos.py
+
+![dos](dos.png)
+
+receive the response code.
