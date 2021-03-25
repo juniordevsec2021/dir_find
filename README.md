@@ -5,6 +5,7 @@
 * You can change it to send post requests,just replace.
 * response = session.get(url, allow_redirects=True).
 * with response = session.post(url, allow_redirects=True).
+* ------------------------------------------------------------------
 *  SETUP:
 * OS - linux/ubuntu distros.
 * sudo apt install tor # install tor service
