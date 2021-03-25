@@ -11,6 +11,6 @@
 
 * run the program from terminal with command python3 dos.py
 
-![dos](dos.png)
+![dos2](dos2.png)
 
 receive the response code.
