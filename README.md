@@ -1,5 +1,4 @@
-# dir_find
-## directory bruteforcer
+# TOR_DOS
 * This program is only for educational purposes it's a Proof Of Concept.
 * Sends get request to the target url over tor network.
 * You can change it to send post requests,just replace.
